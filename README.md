@@ -28,4 +28,22 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babar-hans&show_icons=true&locale=en&layout=compact" alt="babar-hans" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babar-hans&show_icons=true&locale=en" alt="babar-hans" /></p>
+# Babar-Hans's GitHub Streak Meter
+
+Track the GitHub contribution streak of Babar-Hans.
+
+<!-- Replace 'YOUR_API_ENDPOINT' with the actual API endpoint to fetch the streak data -->
+<img src="https://YOUR_API_ENDPOINT/badge?username=Babar-Hans" alt="Babar-Hans's GitHub Streak">
+
+## Streak Details
+
+- Current Streak: ![Babar-Hans's GitHub Streak](https://YOUR_API_ENDPOINT/streak?username=Babar-Hans)
+- Longest Streak: ![Babar-Hans's GitHub Longest Streak](https://YOUR_API_ENDPOINT/longest-streak?username=Babar-Hans)
+
+## How to Use
+
+Copy and paste the following code into your GitHub README to display the streak meter.
+
+```markdown
+![Babar-Hans's GitHub Streak](https://YOUR_API_ENDPOINT/badge?username=Babar-Hans)
 
