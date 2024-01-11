@@ -1,4 +1,3 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=babar-hans)
 
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Babar-Hans</h1>
