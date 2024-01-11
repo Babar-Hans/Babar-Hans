@@ -29,5 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babar-hans&show_icons=true&locale=en" alt="babar-hans" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babar-hans&" alt="babar-hans" /></p>
-<img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=Babar-Hans&amp;theme=highcontrast&amp;hide_border=true" alt="github streak">
